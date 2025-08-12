@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis
+# 🐦 Twitter Sentiment Analysis NLP
 
 ## 📌 Overview
 
@@ -92,7 +92,3 @@ streamlit run app.py
 - Add support for real-time Twitter scraping using Tweepy or snscrape.
 - Integrate deep learning models like BERT for better accuracy.
 - Display word clouds and sentiment distribution charts in the app.
-
-### 📜 License
-
-This project is licensed under the MIT License – you are free to use and modify it.
