@@ -71,7 +71,7 @@ pip install -r requirements.txt
 bash
 streamlit run app.py
 ## Present my app locally deployed in streamlit 
-http://localhost:8903
+http://localhost:8503
 
 ## 📊 Example Output
 ### Tweet	Predicted Sentiment
