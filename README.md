@@ -58,7 +58,7 @@ The model predicts and displays sentiment instantly.
 
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/Twitter-Sentiment-Analysis-NLP-.git
+git clone https://github.com/sowmya13531/Twitter-Sentiment-Analysis-NLP-.git
 cd Twitter-Sentiment-Analysis-NLP-
 ```
 
